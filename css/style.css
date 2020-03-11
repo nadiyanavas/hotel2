@@ -53,12 +53,12 @@ header a:hover{
 #showcase{
     color: #9ba681;
     text-align: left;
-    
+    min-height: 400px;
     font-size:20px;
 }
 
 #select{
-    padding-top: 5px;
+    
     font-family: 'Open Sans', sans-serif;
     position: relative;
 }
@@ -94,7 +94,12 @@ header a:hover{
     background-position: right .7em top 50%, 0 0;
     background-size: .65em auto, 100%;
 }
-
+#select .box-2{
+    float: left;
+    text-align: center;
+    width:45%;
+    padding-bottom: 10px;
+}
 #check-in, #check-out {
     float: none;
     display: block;
@@ -120,7 +125,7 @@ header a:hover{
     background-position: right .7em top 50%, 0 0;
     background-size: .65em auto, 100%;
 }
-#select .box-2{
+#select .box-3{
     float: left;
     text-align: center;
     width:45%;
@@ -150,7 +155,7 @@ linear-gradient(to bottom, #ffffff 0%,#e5e5e5 100%);
     background-position: right .7em top 50%, 0 0;
     background-size: .65em auto, 100%;
 }
-#select .box-3{
+#select .box-4{
     float: left;
     text-align: center;
     width:90%;
