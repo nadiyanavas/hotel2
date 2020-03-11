@@ -67,6 +67,7 @@ header a:hover{
     float:left;
     text-align: center;
     width:33%;
+    text-color: #a68c81;
 }
 #select .select-css {
     float: none;
@@ -113,7 +114,7 @@ header a:hover{
     -moz-appearance: none;
     -webkit-appearance: none;
     appearance: none;
-    background-color: #a68c81;
+    background-color: #fff;
     linear-gradient(to bottom, #ffffff 0%,#e5e5e5 100%);
     background-repeat: no-repeat, repeat;
     background-position: right .7em top 50%, 0 0;
