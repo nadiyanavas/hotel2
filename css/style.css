@@ -31,7 +31,7 @@ header #company-name h1{
     font-family: 'Open Sans Condensed';
 }
 header a{
-    color:#9ba681;
+    color:#81a68c;
     text-decoration:none;
     text-transform: uppercase;
     font-size:18px;
@@ -46,12 +46,12 @@ header nav{
     margin-top:20px;
 }
 header a:hover{
-    color:#8c81a6;
+    color:#a68c81;
     font-weight:bold;
 }
 
 #showcase{
-    color: #9ba681;
+    color: #a68c81;
     text-align: left;
     min-height: 400px;
     font-size:20px;
@@ -61,7 +61,7 @@ header a:hover{
     
     font-family: 'Open Sans', sans-serif;
     position: relative;
-    color: #a68c81;
+    color: #81a68c;
 }
 
 #select .box{
