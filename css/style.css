@@ -58,17 +58,16 @@ header a:hover{
 }
 
 #select{
-    
     font-family: 'Open Sans', sans-serif;
     position: relative;
-    color: #9ba681;
+    color: #a68c81;
 }
 
 #select .box{
     float:left;
     text-align: center;
     width:33%;
-    text-color: #a68c81;
+    text-color: #8c81a6;
 }
 #select .select-css {
     float: none;
