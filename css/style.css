@@ -27,10 +27,11 @@ header #company-name{
     text-align-last: center;
 }
 header #company-name h1{
+    color:#8c81a6;
     font-family: 'Open Sans Condensed';
 }
 header a{
-    color:#000;
+    color:#9ba681;
     text-decoration:none;
     text-transform: uppercase;
     font-size:18px;
@@ -45,17 +46,18 @@ header nav{
     margin-top:20px;
 }
 header a:hover{
-    color:#cccccc;
+    color:#8c81a6;
     font-weight:bold;
 }
 
 #showcase{
-    text-align: center;
+    color: #9ba681;
+    text-align: left;
     min-height: 400px;
 }
 
 #select{
-    padding-top: 20px;
+    padding-top: 10px;
     font-family: 'Open Sans', sans-serif;
     position: relative;
 }
