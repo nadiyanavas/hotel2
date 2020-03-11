@@ -31,7 +31,7 @@ header #company-name h1{
     font-family: 'Open Sans Condensed';
 }
 header a{
-    color:#81a68c;
+    color:#9ba681;
     text-decoration:none;
     text-transform: uppercase;
     font-size:18px;
@@ -61,7 +61,7 @@ header a:hover{
     
     font-family: 'Open Sans', sans-serif;
     position: relative;
-    color: #a68c81;
+    color: #9ba681;
 }
 
 #select .box{
